@@ -25,7 +25,7 @@
   "description": {
     "en": "You are one of the newcomers, right? I need a volunteer to test this upgraded Ferro  it should cut through ARC armor like butter. Put some holes in a few machines and then report back to me.",
     "de": "Du gehörst zu den Neuankömmlingen, oder? Ich brauche einen Freiwilligen, der dieses verbesserte Ferro ausprobiert  es sollte ARC-Panzerungen durchschneiden wie Butter. Baller Löcher in ein paar Maschinen und erstatte mir dann Bericht.",
-    "fr": "Tu fais partie des nouveaux, n'est-ce pas ? J'ai besoin d'un volontaire pour tester ce Ferro amélioré  il devrait découper les armures ARC comme du beurre. Perce quelques machines et reviens me faire ton rapport.",
+    "fr": "Tu fais partie des nouveaux, n'est-ce pas ? J'ai besoin d'un volontaire pour tester ce Ferro amélioré. Il devrait découper les armures ARC comme du beurre. Perce quelques machines et reviens me faire ton rapport.",
     "es": "Eres de los recién llegados, ¿verdad? Necesito un voluntario para probar este Ferro mejorado; debería atravesar la armadura ARC como mantequilla. Haz algunos agujeros en unas cuantas máquinas y luego infórmame.",
     "pt": "Você é um dos recém-chegados, certo? Preciso de um voluntário para testar este Ferro aprimorado  ele deve cortar armaduras ARC como manteiga. Encha algumas máquinas de balas e depois volte para me contar.",
     "pl": "Jesteś jednym z nowoprzybyłych, prawda? Potrzebuję ochotnika, który przetestuje to ulepszone Ferro  powinno ciąć pancerz ARC jak masło. Zrób kilka dziur w maszynach, a potem zamelduj się u mnie.",
@@ -46,7 +46,7 @@
     {
       "en": "Destroy a Fireball",
       "de": "Einen Feuerball zerstören",
-      "fr": "Détruisez un Fireball",
+      "fr": "Détruisez un Bolide",
       "es": "Destruye un Fireball",
       "pt": "Destrua um Fireball",
       "pl": "Zniszcz Fireball",
@@ -66,7 +66,7 @@
     {
       "en": "Destroy a Hornet",
       "de": "Eine Hornisse zerstören",
-      "fr": "Détruisez un Hornet",
+      "fr": "Détruisez un Frelon",
       "es": "Destruye un Avispón",
       "pt": "Destrua um Hornet",
       "pl": "Zniszcz Hornet",
@@ -86,7 +86,7 @@
     {
       "en": "Destroy a Turret",
       "de": "Einen Geschützturm zerstören",
-      "fr": "Détruisez une tourelle",
+      "fr": "Détruisez une Tourelle",
       "es": "Destruye una Torreta",
       "pt": "Destrua uma torreta",
       "pl": "Zniszcz wieżyczkę",
